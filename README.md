@@ -22,7 +22,7 @@ The assets can be found: [here](https://codepen.io/irshad1991/pen/ErYdaj)
 
 ## Demo
 
-There is a demo on this project! and I am not being indirect, here is the link click [here](https://l-xdt.github.io/phone/)
+There is a demo on this project! and I am not being indirect, here is the link: click [here](https://l-xdt.github.io/phone/)
 
 ## Features
 
