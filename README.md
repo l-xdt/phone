@@ -64,7 +64,7 @@ Go to the project directory
   cd phone
 ```
 
-Install dependencies
+Install XAMPP (via Chocalatey, if you don't have it.)
 
 ```bash
   chocalatey install xampp
